@@ -1,8 +1,4 @@
-#Clase2
-nombre= input("¿Cual es tu nombre?")
-edad=input("¿Cual es tu edad'")
-edadtotal=int(edad) + 20
-print=(f"hola mi nombre es",{nombre},"y tengo",{edad},"años y en 20 años tendre",{edadtotal},"años")
+###CLASE 2
 
 #Que hacen estas funciones?
 print(list("python"))
@@ -36,12 +32,12 @@ grupo1= list(grupo1)
 print("la tupla ahora es de tipo:",type(grupo1),"\n")
 print("\n")
 
-#SETS (Conjuntos) - Estructura Fija 
-#Como iniciar 
+#SETS (Conjuntos) - Estructura Fija
+#Como iniciar
 
 conjunto_vacio= set()
 conjunto_vacio1={} #dict o set?
-print(type(conjunto_vacio1)) #aqui se ve el tipo 
+print(type(conjunto_vacio1)) #aqui se ve el tipo
 conjunto_colores= set({"azul","rojo","verde"})
 conjunto_animal={"gato","perro","loro"}
 #asi se llama

@@ -9,9 +9,9 @@ print("transformar de entero a decimal",float(edad))
 
 imc= peso/ (estatura**2)
 print("mi imc es: ",{imc})
-print("mi imc es de: {:.2 f}".format(imc),"/n")
 
-asignatura= "programacion"
+
+asignatura= 'programacion'
 carrera= "IngCivilInformatica"
 print("la asignatura de:",asignatura,"corresponde a la carrera de ", carrera)
 
